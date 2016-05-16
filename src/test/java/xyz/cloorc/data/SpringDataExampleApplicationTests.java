@@ -1,4 +1,4 @@
-package xyz.cloorc;
+package xyz.cloorc.data;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
